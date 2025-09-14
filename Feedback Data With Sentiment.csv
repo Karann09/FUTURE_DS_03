@@ -1,0 +1,500 @@
+time_stamp,event_name,event_type,conducted_by,rating,feedback_comment,sentiment_score,sentiment_label
+08-02-2025 11:05,Sports Meet,Technical,Computer Science,3,"Nothing special, but okay.",-0.3875,Negative
+27-02-2025 11:05,Sports Meet,Cultural,Mechanical,1,Poorly managed event.,0,Neutral
+16-09-2024 11:05,Guest Lecture,Cultural,Electronics,4,Would love to attend again.,0.6369,Positive
+22-02-2025 11:05,Seminar,Sports,Computer Science,1,Poorly managed event.,0,Neutral
+11-05-2025 11:05,Cultural Fest,Workshop,Electronics,1,The event was too long.,0,Neutral
+29-10-2024 11:05,Guest Lecture,Cultural,Management,2,Speakers were boring.,-0.3182,Negative
+06-07-2025 11:05,Seminar,Workshop,Electronics,5,Great networking opportunity.,0.7845,Positive
+21-05-2025 11:05,Seminar,Technical,Computer Science,1,Content was not very relevant.,0,Neutral
+18-01-2025 11:05,Hackathon,Sports,Mechanical,2,Speakers were boring.,-0.3182,Negative
+10-05-2025 11:05,Sports Meet,Sports,Computer Science,3,It was an average experience.,0,Neutral
+25-12-2024 11:05,Cultural Fest,Workshop,Civil,4,Speakers were very knowledgeable.,0,Neutral
+27-11-2024 11:05,Workshop,Sports,Civil,4,Great networking opportunity.,0.7845,Positive
+27-11-2024 11:05,Hackathon,Academic,Management,1,Could be better organized.,0.4404,Positive
+30-06-2025 11:05,Tech Talk,Workshop,Humanities,4,Loved the hands-on activities!,0.636,Positive
+08-06-2025 11:05,Tech Talk,Cultural,Mechanical,2,Speakers were boring.,-0.3182,Negative
+16-06-2025 11:05,Guest Lecture,Cultural,Computer Science,1,Poorly managed event.,0,Neutral
+28-03-2025 11:05,Sports Meet,Sports,Civil,4,Would love to attend again.,0.6369,Positive
+17-05-2025 11:05,Cultural Fest,Cultural,Management,5,Very informative and engaging.,0.3947,Positive
+05-02-2025 11:05,Sports Meet,Workshop,Computer Science,2,I did not enjoy the event.,-0.3875,Negative
+01-02-2025 11:05,Seminar,Cultural,Mechanical,5,Speakers were very knowledgeable.,0,Neutral
+21-09-2024 11:05,Guest Lecture,Cultural,Civil,5,"Great event, learned a lot!",0.6588,Positive
+15-02-2025 11:05,Guest Lecture,Academic,Management,5,Great networking opportunity.,0.7845,Positive
+15-07-2025 11:05,Hackathon,Workshop,Humanities,4,Would love to attend again.,0.6369,Positive
+12-06-2025 11:05,Workshop,Sports,Mechanical,4,Great networking opportunity.,0.7845,Positive
+26-10-2024 11:05,Seminar,Workshop,Management,2,Content was not very relevant.,0,Neutral
+07-11-2024 11:05,Workshop,Technical,Humanities,5,Great networking opportunity.,0.7845,Positive
+16-03-2025 11:05,Guest Lecture,Sports,Management,2,Poorly managed event.,0,Neutral
+08-03-2025 11:05,Tech Talk,Academic,Computer Science,5,"Great event, learned a lot!",0.6588,Positive
+22-01-2025 11:05,Workshop,Technical,Computer Science,4,Great networking opportunity.,0.7845,Positive
+04-08-2025 11:05,Seminar,Cultural,Electronics,2,Speakers were boring.,-0.3182,Negative
+17-03-2025 11:05,Guest Lecture,Academic,Computer Science,5,Would love to attend again.,0.6369,Positive
+08-04-2025 11:05,Workshop,Workshop,Electronics,4,Would love to attend again.,0.6369,Positive
+27-06-2025 11:05,Tech Talk,Technical,Mechanical,1,I did not enjoy the event.,-0.3875,Negative
+08-06-2025 11:05,Guest Lecture,Academic,Humanities,4,Great networking opportunity.,0.7845,Positive
+01-02-2025 11:05,Seminar,Technical,Mechanical,2,Speakers were boring.,-0.3182,Negative
+23-10-2024 11:05,Hackathon,Technical,Civil,2,Poorly managed event.,0,Neutral
+13-09-2024 11:05,Seminar,Sports,Management,1,Could be better organized.,0.4404,Positive
+23-04-2025 11:05,Seminar,Sports,Management,5,Great networking opportunity.,0.7845,Positive
+27-02-2025 11:05,Cultural Fest,Academic,Civil,3,It was an average experience.,0,Neutral
+20-09-2024 11:05,Sports Meet,Technical,Computer Science,5,Would love to attend again.,0.6369,Positive
+17-06-2025 11:05,Cultural Fest,Sports,Electronics,3,It was an average experience.,0,Neutral
+13-04-2025 11:05,Tech Talk,Academic,Mechanical,3,"Nothing special, but okay.",-0.3875,Negative
+16-06-2025 11:05,Tech Talk,Cultural,Management,1,Content was not very relevant.,0,Neutral
+29-03-2025 11:05,Sports Meet,Sports,Electronics,3,It was an average experience.,0,Neutral
+17-04-2025 11:05,Sports Meet,Sports,Computer Science,3,It was an average experience.,0,Neutral
+05-01-2025 11:05,Workshop,Workshop,Civil,2,Poorly managed event.,0,Neutral
+01-11-2024 11:05,Tech Talk,Sports,Management,2,Speakers were boring.,-0.3182,Negative
+13-09-2024 11:05,Cultural Fest,Academic,Civil,4,Very informative and engaging.,0.3947,Positive
+05-02-2025 11:05,Workshop,Academic,Humanities,3,Overall it was decent.,0,Neutral
+06-05-2025 11:05,Workshop,Workshop,Electronics,3,Overall it was decent.,0,Neutral
+20-10-2024 11:05,Guest Lecture,Workshop,Management,1,I did not enjoy the event.,-0.3875,Negative
+09-01-2025 11:05,Workshop,Workshop,Humanities,5,Loved the hands-on activities!,0.636,Positive
+28-12-2024 11:05,Cultural Fest,Cultural,Humanities,4,Very informative and engaging.,0.3947,Positive
+11-03-2025 11:05,Hackathon,Academic,Management,1,Could be better organized.,0.4404,Positive
+16-07-2025 11:05,Guest Lecture,Cultural,Humanities,2,Could be better organized.,0.4404,Positive
+03-03-2025 11:05,Guest Lecture,Workshop,Computer Science,5,Would love to attend again.,0.6369,Positive
+15-08-2025 11:05,Workshop,Academic,Mechanical,5,Would love to attend again.,0.6369,Positive
+09-08-2025 11:05,Hackathon,Workshop,Computer Science,1,I did not enjoy the event.,-0.3875,Negative
+30-08-2025 11:05,Workshop,Sports,Mechanical,4,Loved the hands-on activities!,0.636,Positive
+19-06-2025 11:05,Sports Meet,Technical,Management,1,Poorly managed event.,0,Neutral
+20-09-2024 11:05,Seminar,Workshop,Humanities,5,Very informative and engaging.,0.3947,Positive
+14-08-2025 11:05,Sports Meet,Cultural,Computer Science,5,Loved the hands-on activities!,0.636,Positive
+13-09-2024 11:05,Sports Meet,Technical,Electronics,5,Great networking opportunity.,0.7845,Positive
+12-12-2024 11:05,Seminar,Sports,Computer Science,4,Speakers were very knowledgeable.,0,Neutral
+26-10-2024 11:05,Guest Lecture,Technical,Mechanical,2,I did not enjoy the event.,-0.3875,Negative
+08-05-2025 11:05,Guest Lecture,Workshop,Management,4,Very informative and engaging.,0.3947,Positive
+26-04-2025 11:05,Cultural Fest,Sports,Management,2,I did not enjoy the event.,-0.3875,Negative
+23-08-2025 11:05,Hackathon,Workshop,Electronics,1,Speakers were boring.,-0.3182,Negative
+05-11-2024 11:05,Hackathon,Sports,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+24-07-2025 11:05,Workshop,Sports,Civil,2,Poorly managed event.,0,Neutral
+21-03-2025 11:05,Cultural Fest,Workshop,Computer Science,3,"Content was fine, not too great.",-0.3599,Negative
+05-05-2025 11:05,Guest Lecture,Technical,Electronics,2,Content was not very relevant.,0,Neutral
+20-10-2024 11:05,Cultural Fest,Workshop,Humanities,3,It was an average experience.,0,Neutral
+17-10-2024 11:05,Guest Lecture,Academic,Management,1,Content was not very relevant.,0,Neutral
+08-07-2025 11:05,Sports Meet,Technical,Computer Science,2,Poorly managed event.,0,Neutral
+28-07-2025 11:05,Guest Lecture,Workshop,Electronics,3,"Content was fine, not too great.",-0.3599,Negative
+02-07-2025 11:05,Seminar,Workshop,Humanities,5,Would love to attend again.,0.6369,Positive
+24-05-2025 11:05,Workshop,Cultural,Civil,2,Speakers were boring.,-0.3182,Negative
+08-12-2024 11:05,Tech Talk,Academic,Humanities,5,Very informative and engaging.,0.3947,Positive
+24-02-2025 11:05,Guest Lecture,Workshop,Humanities,5,Great networking opportunity.,0.7845,Positive
+02-09-2025 11:05,Guest Lecture,Sports,Electronics,2,Content was not very relevant.,0,Neutral
+29-03-2025 11:05,Tech Talk,Sports,Mechanical,5,Great networking opportunity.,0.7845,Positive
+14-06-2025 11:05,Workshop,Cultural,Electronics,2,Speakers were boring.,-0.3182,Negative
+14-12-2024 11:05,Tech Talk,Technical,Electronics,1,Content was not very relevant.,0,Neutral
+01-08-2025 11:05,Workshop,Cultural,Computer Science,2,Could be better organized.,0.4404,Positive
+25-05-2025 11:05,Seminar,Technical,Mechanical,5,Would love to attend again.,0.6369,Positive
+17-11-2024 11:05,Sports Meet,Technical,Electronics,4,Very informative and engaging.,0.3947,Positive
+29-08-2025 11:05,Seminar,Technical,Management,4,Loved the hands-on activities!,0.636,Positive
+11-03-2025 11:05,Sports Meet,Cultural,Electronics,5,Speakers were very knowledgeable.,0,Neutral
+29-08-2025 11:05,Cultural Fest,Cultural,Electronics,2,Poorly managed event.,0,Neutral
+14-02-2025 11:05,Hackathon,Academic,Management,2,Poorly managed event.,0,Neutral
+08-02-2025 11:05,Guest Lecture,Workshop,Civil,1,Poorly managed event.,0,Neutral
+11-11-2024 11:05,Sports Meet,Academic,Mechanical,2,Poorly managed event.,0,Neutral
+26-10-2024 11:05,Seminar,Cultural,Mechanical,2,I did not enjoy the event.,-0.3875,Negative
+21-07-2025 11:05,Tech Talk,Workshop,Management,1,Content was not very relevant.,0,Neutral
+29-01-2025 11:05,Workshop,Technical,Management,4,Would love to attend again.,0.6369,Positive
+07-12-2024 11:05,Hackathon,Sports,Management,5,"Great event, learned a lot!",0.6588,Positive
+21-10-2024 11:05,Workshop,Sports,Humanities,1,Content was not very relevant.,0,Neutral
+08-09-2025 11:05,Seminar,Cultural,Management,4,"Great event, learned a lot!",0.6588,Positive
+13-04-2025 11:05,Cultural Fest,Technical,Mechanical,2,Could be better organized.,0.4404,Positive
+12-04-2025 11:05,Hackathon,Academic,Computer Science,1,Speakers were boring.,-0.3182,Negative
+30-06-2025 11:05,Tech Talk,Technical,Civil,2,Could be better organized.,0.4404,Positive
+25-06-2025 11:05,Guest Lecture,Cultural,Electronics,4,Very informative and engaging.,0.3947,Positive
+27-05-2025 11:05,Cultural Fest,Cultural,Electronics,4,Speakers were very knowledgeable.,0,Neutral
+09-01-2025 11:05,Seminar,Cultural,Mechanical,4,Great networking opportunity.,0.7845,Positive
+26-01-2025 11:05,Seminar,Workshop,Mechanical,3,It was an average experience.,0,Neutral
+02-03-2025 11:05,Workshop,Technical,Computer Science,4,Would love to attend again.,0.6369,Positive
+16-12-2024 11:05,Sports Meet,Technical,Computer Science,3,"Nothing special, but okay.",-0.3875,Negative
+27-09-2024 11:05,Cultural Fest,Technical,Humanities,3,"Content was fine, not too great.",-0.3599,Negative
+12-06-2025 11:05,Workshop,Cultural,Management,1,Could be better organized.,0.4404,Positive
+30-11-2024 11:05,Sports Meet,Cultural,Management,1,The event was too long.,0,Neutral
+16-04-2025 11:05,Workshop,Sports,Mechanical,1,I did not enjoy the event.,-0.3875,Negative
+10-03-2025 11:05,Seminar,Cultural,Electronics,3,Could have been a little better.,0.3832,Positive
+15-01-2025 11:05,Hackathon,Cultural,Computer Science,5,Would love to attend again.,0.6369,Positive
+18-10-2024 11:05,Sports Meet,Academic,Civil,5,"Great event, learned a lot!",0.6588,Positive
+07-05-2025 11:05,Guest Lecture,Technical,Computer Science,2,Content was not very relevant.,0,Neutral
+03-02-2025 11:05,Hackathon,Cultural,Humanities,5,Loved the hands-on activities!,0.636,Positive
+28-05-2025 11:05,Cultural Fest,Cultural,Management,4,Loved the hands-on activities!,0.636,Positive
+22-07-2025 11:05,Seminar,Academic,Humanities,5,Loved the hands-on activities!,0.636,Positive
+01-01-2025 11:05,Sports Meet,Workshop,Mechanical,4,Speakers were very knowledgeable.,0,Neutral
+03-12-2024 11:05,Hackathon,Technical,Management,2,Poorly managed event.,0,Neutral
+04-02-2025 11:05,Hackathon,Technical,Civil,2,Could be better organized.,0.4404,Positive
+08-10-2024 11:05,Guest Lecture,Sports,Humanities,3,"Content was fine, not too great.",-0.3599,Negative
+16-03-2025 11:05,Tech Talk,Cultural,Humanities,4,Very informative and engaging.,0.3947,Positive
+02-10-2024 11:05,Hackathon,Sports,Civil,5,Speakers were very knowledgeable.,0,Neutral
+15-03-2025 11:05,Tech Talk,Cultural,Humanities,2,Content was not very relevant.,0,Neutral
+21-01-2025 11:05,Tech Talk,Technical,Computer Science,2,Poorly managed event.,0,Neutral
+03-12-2024 11:05,Tech Talk,Cultural,Humanities,2,Poorly managed event.,0,Neutral
+14-06-2025 11:05,Workshop,Technical,Mechanical,1,Speakers were boring.,-0.3182,Negative
+23-08-2025 11:05,Cultural Fest,Sports,Computer Science,2,Speakers were boring.,-0.3182,Negative
+05-09-2025 11:05,Guest Lecture,Cultural,Humanities,1,The event was too long.,0,Neutral
+08-02-2025 11:05,Workshop,Academic,Computer Science,4,Speakers were very knowledgeable.,0,Neutral
+04-03-2025 11:05,Guest Lecture,Cultural,Electronics,3,"Nothing special, but okay.",-0.3875,Negative
+04-07-2025 11:05,Cultural Fest,Cultural,Mechanical,4,Great networking opportunity.,0.7845,Positive
+14-04-2025 11:05,Cultural Fest,Sports,Computer Science,2,I did not enjoy the event.,-0.3875,Negative
+11-09-2024 11:05,Tech Talk,Workshop,Humanities,5,"Great event, learned a lot!",0.6588,Positive
+08-06-2025 11:05,Seminar,Sports,Humanities,2,The event was too long.,0,Neutral
+23-12-2024 11:05,Tech Talk,Technical,Management,1,Speakers were boring.,-0.3182,Negative
+06-07-2025 11:05,Tech Talk,Technical,Humanities,2,Could be better organized.,0.4404,Positive
+06-03-2025 11:05,Workshop,Workshop,Humanities,5,Would love to attend again.,0.6369,Positive
+10-09-2024 11:05,Seminar,Cultural,Computer Science,1,Speakers were boring.,-0.3182,Negative
+07-02-2025 11:05,Cultural Fest,Academic,Management,4,"Great event, learned a lot!",0.6588,Positive
+03-02-2025 11:05,Sports Meet,Academic,Management,1,The event was too long.,0,Neutral
+19-01-2025 11:05,Seminar,Workshop,Management,1,The event was too long.,0,Neutral
+06-11-2024 11:05,Cultural Fest,Cultural,Electronics,2,Content was not very relevant.,0,Neutral
+02-01-2025 11:05,Cultural Fest,Technical,Computer Science,1,I did not enjoy the event.,-0.3875,Negative
+11-11-2024 11:05,Workshop,Sports,Electronics,4,Great networking opportunity.,0.7845,Positive
+24-09-2024 11:05,Hackathon,Workshop,Civil,4,Great networking opportunity.,0.7845,Positive
+24-08-2025 11:05,Seminar,Cultural,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+04-03-2025 11:05,Sports Meet,Workshop,Electronics,4,Loved the hands-on activities!,0.636,Positive
+24-07-2025 11:05,Cultural Fest,Workshop,Computer Science,2,Content was not very relevant.,0,Neutral
+17-07-2025 11:05,Guest Lecture,Cultural,Humanities,5,Very informative and engaging.,0.3947,Positive
+16-05-2025 11:05,Tech Talk,Workshop,Electronics,5,"Great event, learned a lot!",0.6588,Positive
+30-12-2024 11:05,Workshop,Workshop,Management,4,Would love to attend again.,0.6369,Positive
+23-09-2024 11:05,Hackathon,Sports,Mechanical,4,Very informative and engaging.,0.3947,Positive
+23-07-2025 11:05,Hackathon,Academic,Computer Science,2,Speakers were boring.,-0.3182,Negative
+28-11-2024 11:05,Hackathon,Workshop,Humanities,5,"Great event, learned a lot!",0.6588,Positive
+24-11-2024 11:05,Guest Lecture,Workshop,Mechanical,2,Speakers were boring.,-0.3182,Negative
+14-02-2025 11:05,Cultural Fest,Academic,Mechanical,2,I did not enjoy the event.,-0.3875,Negative
+29-03-2025 11:05,Guest Lecture,Cultural,Computer Science,5,Speakers were very knowledgeable.,0,Neutral
+22-02-2025 11:05,Cultural Fest,Academic,Civil,2,I did not enjoy the event.,-0.3875,Negative
+26-05-2025 11:05,Tech Talk,Academic,Mechanical,4,Very informative and engaging.,0.3947,Positive
+07-02-2025 11:05,Workshop,Technical,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+19-03-2025 11:05,Workshop,Cultural,Mechanical,1,The event was too long.,0,Neutral
+14-04-2025 11:05,Workshop,Academic,Management,1,Could be better organized.,0.4404,Positive
+02-11-2024 11:05,Hackathon,Sports,Mechanical,2,I did not enjoy the event.,-0.3875,Negative
+12-07-2025 11:05,Guest Lecture,Technical,Humanities,2,Poorly managed event.,0,Neutral
+05-12-2024 11:05,Hackathon,Cultural,Management,2,I did not enjoy the event.,-0.3875,Negative
+14-08-2025 11:05,Tech Talk,Cultural,Humanities,1,I did not enjoy the event.,-0.3875,Negative
+04-07-2025 11:05,Guest Lecture,Sports,Electronics,4,Loved the hands-on activities!,0.636,Positive
+25-05-2025 11:05,Seminar,Technical,Electronics,2,I did not enjoy the event.,-0.3875,Negative
+24-12-2024 11:05,Cultural Fest,Sports,Humanities,1,Speakers were boring.,-0.3182,Negative
+30-11-2024 11:05,Workshop,Technical,Civil,4,Speakers were very knowledgeable.,0,Neutral
+18-08-2025 11:05,Hackathon,Academic,Management,2,Content was not very relevant.,0,Neutral
+13-08-2025 11:05,Sports Meet,Workshop,Civil,1,Content was not very relevant.,0,Neutral
+06-10-2024 11:05,Workshop,Sports,Civil,5,Loved the hands-on activities!,0.636,Positive
+23-02-2025 11:05,Cultural Fest,Sports,Electronics,1,Speakers were boring.,-0.3182,Negative
+26-04-2025 11:05,Cultural Fest,Sports,Electronics,1,Poorly managed event.,0,Neutral
+08-03-2025 11:05,Tech Talk,Workshop,Management,5,Loved the hands-on activities!,0.636,Positive
+13-08-2025 11:05,Tech Talk,Technical,Civil,4,Very informative and engaging.,0.3947,Positive
+05-09-2025 11:05,Cultural Fest,Technical,Computer Science,2,Could be better organized.,0.4404,Positive
+03-04-2025 11:05,Seminar,Workshop,Computer Science,3,"Nothing special, but okay.",-0.3875,Negative
+01-04-2025 11:05,Seminar,Technical,Management,4,Very informative and engaging.,0.3947,Positive
+07-10-2024 11:05,Hackathon,Academic,Management,1,Content was not very relevant.,0,Neutral
+04-04-2025 11:05,Seminar,Academic,Mechanical,1,Speakers were boring.,-0.3182,Negative
+07-09-2025 11:05,Sports Meet,Academic,Management,5,Would love to attend again.,0.6369,Positive
+11-02-2025 11:05,Seminar,Cultural,Mechanical,1,The event was too long.,0,Neutral
+27-01-2025 11:05,Cultural Fest,Technical,Electronics,5,Loved the hands-on activities!,0.636,Positive
+09-01-2025 11:05,Guest Lecture,Workshop,Electronics,5,Loved the hands-on activities!,0.636,Positive
+03-12-2024 11:05,Sports Meet,Workshop,Management,1,Poorly managed event.,0,Neutral
+27-12-2024 11:05,Sports Meet,Cultural,Mechanical,4,Great networking opportunity.,0.7845,Positive
+12-08-2025 11:05,Cultural Fest,Workshop,Computer Science,5,Great networking opportunity.,0.7845,Positive
+20-09-2024 11:05,Seminar,Academic,Mechanical,5,Speakers were very knowledgeable.,0,Neutral
+07-05-2025 11:05,Cultural Fest,Sports,Electronics,1,I did not enjoy the event.,-0.3875,Negative
+13-12-2024 11:05,Tech Talk,Cultural,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+06-11-2024 11:05,Cultural Fest,Academic,Humanities,4,Very informative and engaging.,0.3947,Positive
+12-09-2024 11:05,Sports Meet,Sports,Humanities,2,Poorly managed event.,0,Neutral
+24-02-2025 11:05,Seminar,Academic,Humanities,5,Great networking opportunity.,0.7845,Positive
+20-04-2025 11:05,Workshop,Cultural,Electronics,3,Overall it was decent.,0,Neutral
+20-08-2025 11:05,Hackathon,Technical,Management,5,Loved the hands-on activities!,0.636,Positive
+24-12-2024 11:05,Cultural Fest,Technical,Humanities,4,Would love to attend again.,0.6369,Positive
+17-03-2025 11:05,Guest Lecture,Academic,Electronics,3,Could have been a little better.,0.3832,Positive
+15-03-2025 11:05,Hackathon,Technical,Mechanical,2,Poorly managed event.,0,Neutral
+05-12-2024 11:05,Tech Talk,Sports,Civil,1,Poorly managed event.,0,Neutral
+14-04-2025 11:05,Hackathon,Technical,Mechanical,4,Very informative and engaging.,0.3947,Positive
+09-05-2025 11:05,Guest Lecture,Sports,Humanities,3,Could have been a little better.,0.3832,Positive
+17-09-2024 11:05,Sports Meet,Cultural,Civil,3,Could have been a little better.,0.3832,Positive
+29-09-2024 11:05,Sports Meet,Workshop,Mechanical,3,Overall it was decent.,0,Neutral
+29-05-2025 11:05,Hackathon,Workshop,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+10-02-2025 11:05,Tech Talk,Technical,Computer Science,1,The event was too long.,0,Neutral
+20-08-2025 11:05,Guest Lecture,Cultural,Computer Science,3,Could have been a little better.,0.3832,Positive
+12-07-2025 11:05,Cultural Fest,Academic,Electronics,3,Could have been a little better.,0.3832,Positive
+29-01-2025 11:05,Guest Lecture,Technical,Mechanical,3,Could have been a little better.,0.3832,Positive
+21-05-2025 11:05,Sports Meet,Academic,Mechanical,5,Great networking opportunity.,0.7845,Positive
+17-11-2024 11:05,Guest Lecture,Cultural,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+29-05-2025 11:05,Workshop,Cultural,Management,2,The event was too long.,0,Neutral
+05-04-2025 11:05,Guest Lecture,Technical,Computer Science,4,Loved the hands-on activities!,0.636,Positive
+12-09-2024 11:05,Workshop,Workshop,Civil,5,Would love to attend again.,0.6369,Positive
+13-06-2025 11:05,Workshop,Workshop,Mechanical,3,Overall it was decent.,0,Neutral
+11-07-2025 11:05,Sports Meet,Cultural,Electronics,2,Content was not very relevant.,0,Neutral
+29-09-2024 11:05,Cultural Fest,Sports,Electronics,1,Could be better organized.,0.4404,Positive
+30-11-2024 11:05,Tech Talk,Sports,Computer Science,3,Overall it was decent.,0,Neutral
+08-11-2024 11:05,Guest Lecture,Cultural,Humanities,5,Would love to attend again.,0.6369,Positive
+15-01-2025 11:05,Hackathon,Technical,Management,3,Overall it was decent.,0,Neutral
+25-05-2025 11:05,Hackathon,Workshop,Civil,5,Would love to attend again.,0.6369,Positive
+25-08-2025 11:05,Tech Talk,Cultural,Management,2,Poorly managed event.,0,Neutral
+19-01-2025 11:05,Seminar,Sports,Humanities,5,Great networking opportunity.,0.7845,Positive
+11-09-2024 11:05,Guest Lecture,Sports,Civil,4,Would love to attend again.,0.6369,Positive
+30-06-2025 11:05,Sports Meet,Cultural,Civil,5,"Great event, learned a lot!",0.6588,Positive
+23-07-2025 11:05,Hackathon,Cultural,Mechanical,1,Speakers were boring.,-0.3182,Negative
+01-11-2024 11:05,Sports Meet,Cultural,Civil,1,I did not enjoy the event.,-0.3875,Negative
+06-04-2025 11:05,Guest Lecture,Technical,Electronics,5,Great networking opportunity.,0.7845,Positive
+16-10-2024 11:05,Guest Lecture,Sports,Electronics,1,Content was not very relevant.,0,Neutral
+13-11-2024 11:05,Seminar,Cultural,Electronics,3,"Nothing special, but okay.",-0.3875,Negative
+07-04-2025 11:05,Tech Talk,Cultural,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+13-03-2025 11:05,Workshop,Academic,Computer Science,3,It was an average experience.,0,Neutral
+20-04-2025 11:05,Seminar,Cultural,Civil,4,"Great event, learned a lot!",0.6588,Positive
+13-07-2025 11:05,Workshop,Technical,Mechanical,3,Could have been a little better.,0.3832,Positive
+02-03-2025 11:05,Workshop,Sports,Computer Science,4,"Great event, learned a lot!",0.6588,Positive
+26-03-2025 11:05,Hackathon,Cultural,Civil,3,"Content was fine, not too great.",-0.3599,Negative
+28-07-2025 11:05,Sports Meet,Cultural,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+05-06-2025 11:05,Seminar,Sports,Civil,5,"Great event, learned a lot!",0.6588,Positive
+15-08-2025 11:05,Cultural Fest,Technical,Humanities,2,Poorly managed event.,0,Neutral
+31-12-2024 11:05,Sports Meet,Cultural,Computer Science,3,Overall it was decent.,0,Neutral
+19-06-2025 11:05,Hackathon,Technical,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+16-04-2025 11:05,Tech Talk,Technical,Electronics,1,The event was too long.,0,Neutral
+04-06-2025 11:05,Sports Meet,Academic,Computer Science,5,Speakers were very knowledgeable.,0,Neutral
+14-12-2024 11:05,Hackathon,Technical,Mechanical,1,Could be better organized.,0.4404,Positive
+15-01-2025 11:05,Workshop,Technical,Computer Science,5,Would love to attend again.,0.6369,Positive
+19-10-2024 11:05,Tech Talk,Sports,Civil,4,Great networking opportunity.,0.7845,Positive
+06-09-2025 11:05,Guest Lecture,Sports,Management,5,Loved the hands-on activities!,0.636,Positive
+02-01-2025 11:05,Cultural Fest,Technical,Computer Science,3,It was an average experience.,0,Neutral
+23-08-2025 11:05,Workshop,Academic,Humanities,5,Loved the hands-on activities!,0.636,Positive
+31-01-2025 11:05,Cultural Fest,Sports,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+21-11-2024 11:05,Guest Lecture,Technical,Civil,3,Could have been a little better.,0.3832,Positive
+19-10-2024 11:05,Cultural Fest,Sports,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+20-03-2025 11:05,Seminar,Technical,Electronics,1,The event was too long.,0,Neutral
+04-06-2025 11:05,Tech Talk,Workshop,Mechanical,3,"Nothing special, but okay.",-0.3875,Negative
+25-01-2025 11:05,Hackathon,Academic,Civil,2,Could be better organized.,0.4404,Positive
+29-10-2024 11:05,Workshop,Workshop,Management,1,Poorly managed event.,0,Neutral
+21-01-2025 11:05,Sports Meet,Academic,Humanities,2,The event was too long.,0,Neutral
+14-12-2024 11:05,Workshop,Technical,Management,5,Great networking opportunity.,0.7845,Positive
+12-03-2025 11:05,Sports Meet,Workshop,Civil,5,"Great event, learned a lot!",0.6588,Positive
+12-07-2025 11:05,Hackathon,Sports,Mechanical,4,Would love to attend again.,0.6369,Positive
+16-05-2025 11:05,Hackathon,Technical,Humanities,2,I did not enjoy the event.,-0.3875,Negative
+22-01-2025 11:05,Sports Meet,Academic,Computer Science,4,Great networking opportunity.,0.7845,Positive
+19-06-2025 11:05,Tech Talk,Cultural,Electronics,5,Great networking opportunity.,0.7845,Positive
+27-08-2025 11:05,Seminar,Cultural,Computer Science,2,Could be better organized.,0.4404,Positive
+09-10-2024 11:05,Cultural Fest,Sports,Humanities,3,It was an average experience.,0,Neutral
+09-02-2025 11:05,Workshop,Workshop,Humanities,1,Could be better organized.,0.4404,Positive
+27-03-2025 11:05,Sports Meet,Academic,Humanities,4,Loved the hands-on activities!,0.636,Positive
+01-10-2024 11:05,Seminar,Sports,Humanities,3,Overall it was decent.,0,Neutral
+06-12-2024 11:05,Hackathon,Workshop,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+12-09-2024 11:05,Workshop,Sports,Humanities,3,"Content was fine, not too great.",-0.3599,Negative
+24-11-2024 11:05,Seminar,Academic,Management,2,I did not enjoy the event.,-0.3875,Negative
+11-01-2025 11:05,Cultural Fest,Academic,Management,2,Could be better organized.,0.4404,Positive
+07-09-2025 11:05,Guest Lecture,Academic,Humanities,5,"Great event, learned a lot!",0.6588,Positive
+11-03-2025 11:05,Hackathon,Sports,Humanities,4,"Great event, learned a lot!",0.6588,Positive
+18-04-2025 11:05,Cultural Fest,Sports,Management,2,Speakers were boring.,-0.3182,Negative
+14-03-2025 11:05,Workshop,Technical,Management,2,I did not enjoy the event.,-0.3875,Negative
+21-02-2025 11:05,Seminar,Workshop,Management,2,Poorly managed event.,0,Neutral
+07-09-2025 11:05,Guest Lecture,Academic,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+06-08-2025 11:05,Hackathon,Technical,Civil,1,I did not enjoy the event.,-0.3875,Negative
+21-01-2025 11:05,Cultural Fest,Academic,Management,5,Loved the hands-on activities!,0.636,Positive
+08-01-2025 11:05,Hackathon,Cultural,Mechanical,5,Would love to attend again.,0.6369,Positive
+14-08-2025 11:05,Seminar,Technical,Humanities,3,It was an average experience.,0,Neutral
+31-10-2024 11:05,Hackathon,Sports,Management,4,Speakers were very knowledgeable.,0,Neutral
+06-12-2024 11:05,Tech Talk,Sports,Mechanical,4,Speakers were very knowledgeable.,0,Neutral
+01-01-2025 11:05,Guest Lecture,Workshop,Management,5,Loved the hands-on activities!,0.636,Positive
+11-08-2025 11:05,Workshop,Workshop,Civil,2,I did not enjoy the event.,-0.3875,Negative
+13-08-2025 11:05,Seminar,Academic,Computer Science,5,Speakers were very knowledgeable.,0,Neutral
+16-01-2025 11:05,Cultural Fest,Academic,Humanities,2,Could be better organized.,0.4404,Positive
+10-05-2025 11:05,Workshop,Sports,Management,5,Speakers were very knowledgeable.,0,Neutral
+10-08-2025 11:05,Sports Meet,Cultural,Civil,3,"Nothing special, but okay.",-0.3875,Negative
+30-01-2025 11:05,Hackathon,Academic,Civil,3,"Content was fine, not too great.",-0.3599,Negative
+30-06-2025 11:05,Cultural Fest,Cultural,Computer Science,1,Content was not very relevant.,0,Neutral
+19-06-2025 11:05,Tech Talk,Workshop,Computer Science,2,Could be better organized.,0.4404,Positive
+28-12-2024 11:05,Workshop,Technical,Management,3,Could have been a little better.,0.3832,Positive
+25-03-2025 11:05,Guest Lecture,Technical,Civil,3,"Content was fine, not too great.",-0.3599,Negative
+01-10-2024 11:05,Cultural Fest,Academic,Electronics,1,Speakers were boring.,-0.3182,Negative
+04-03-2025 11:05,Guest Lecture,Academic,Computer Science,4,"Great event, learned a lot!",0.6588,Positive
+01-07-2025 11:05,Workshop,Cultural,Mechanical,2,Could be better organized.,0.4404,Positive
+01-05-2025 11:05,Guest Lecture,Workshop,Humanities,4,Speakers were very knowledgeable.,0,Neutral
+02-09-2025 11:05,Cultural Fest,Academic,Management,1,Could be better organized.,0.4404,Positive
+06-09-2025 11:05,Workshop,Sports,Computer Science,3,It was an average experience.,0,Neutral
+06-06-2025 11:05,Cultural Fest,Workshop,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+22-10-2024 11:05,Tech Talk,Sports,Management,1,Could be better organized.,0.4404,Positive
+20-08-2025 11:05,Guest Lecture,Workshop,Electronics,1,I did not enjoy the event.,-0.3875,Negative
+06-06-2025 11:05,Hackathon,Workshop,Electronics,5,Speakers were very knowledgeable.,0,Neutral
+10-01-2025 11:05,Hackathon,Academic,Humanities,2,Could be better organized.,0.4404,Positive
+19-01-2025 11:05,Guest Lecture,Sports,Computer Science,5,Loved the hands-on activities!,0.636,Positive
+04-05-2025 11:05,Guest Lecture,Technical,Humanities,4,Loved the hands-on activities!,0.636,Positive
+17-01-2025 11:05,Cultural Fest,Cultural,Electronics,3,Could have been a little better.,0.3832,Positive
+23-10-2024 11:05,Seminar,Sports,Humanities,5,Great networking opportunity.,0.7845,Positive
+24-11-2024 11:05,Cultural Fest,Cultural,Electronics,5,"Great event, learned a lot!",0.6588,Positive
+29-10-2024 11:05,Hackathon,Technical,Mechanical,5,Very informative and engaging.,0.3947,Positive
+23-06-2025 11:05,Tech Talk,Workshop,Humanities,4,Very informative and engaging.,0.3947,Positive
+01-07-2025 11:05,Sports Meet,Cultural,Civil,3,Overall it was decent.,0,Neutral
+15-10-2024 11:05,Seminar,Cultural,Mechanical,1,Could be better organized.,0.4404,Positive
+05-03-2025 11:05,Sports Meet,Cultural,Computer Science,1,The event was too long.,0,Neutral
+11-08-2025 11:05,Tech Talk,Technical,Humanities,3,It was an average experience.,0,Neutral
+27-05-2025 11:05,Guest Lecture,Technical,Electronics,1,Could be better organized.,0.4404,Positive
+21-02-2025 11:05,Seminar,Cultural,Management,5,Great networking opportunity.,0.7845,Positive
+16-07-2025 11:05,Sports Meet,Technical,Computer Science,2,The event was too long.,0,Neutral
+12-07-2025 11:05,Tech Talk,Sports,Humanities,2,Poorly managed event.,0,Neutral
+12-10-2024 11:05,Guest Lecture,Technical,Humanities,5,"Great event, learned a lot!",0.6588,Positive
+01-05-2025 11:05,Guest Lecture,Cultural,Civil,4,Loved the hands-on activities!,0.636,Positive
+11-03-2025 11:05,Workshop,Technical,Civil,2,The event was too long.,0,Neutral
+17-07-2025 11:05,Guest Lecture,Technical,Humanities,1,Speakers were boring.,-0.3182,Negative
+17-02-2025 11:05,Cultural Fest,Academic,Computer Science,1,Could be better organized.,0.4404,Positive
+24-04-2025 11:05,Guest Lecture,Academic,Humanities,3,Overall it was decent.,0,Neutral
+28-01-2025 11:05,Sports Meet,Technical,Electronics,1,Poorly managed event.,0,Neutral
+25-06-2025 11:05,Sports Meet,Academic,Electronics,1,Poorly managed event.,0,Neutral
+09-04-2025 11:05,Guest Lecture,Cultural,Computer Science,2,Speakers were boring.,-0.3182,Negative
+28-02-2025 11:05,Hackathon,Workshop,Mechanical,2,I did not enjoy the event.,-0.3875,Negative
+05-04-2025 11:05,Tech Talk,Academic,Electronics,4,Would love to attend again.,0.6369,Positive
+24-03-2025 11:05,Seminar,Technical,Civil,2,Speakers were boring.,-0.3182,Negative
+21-01-2025 11:05,Cultural Fest,Sports,Management,4,Speakers were very knowledgeable.,0,Neutral
+10-02-2025 11:05,Guest Lecture,Technical,Computer Science,3,Could have been a little better.,0.3832,Positive
+30-04-2025 11:05,Hackathon,Technical,Civil,5,Great networking opportunity.,0.7845,Positive
+13-09-2024 11:05,Sports Meet,Academic,Computer Science,2,Poorly managed event.,0,Neutral
+13-07-2025 11:05,Tech Talk,Technical,Management,4,Very informative and engaging.,0.3947,Positive
+06-10-2024 11:05,Cultural Fest,Cultural,Civil,5,Would love to attend again.,0.6369,Positive
+16-06-2025 11:05,Workshop,Cultural,Management,5,Loved the hands-on activities!,0.636,Positive
+18-11-2024 11:05,Cultural Fest,Academic,Civil,3,"Content was fine, not too great.",-0.3599,Negative
+07-07-2025 11:05,Hackathon,Technical,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+24-09-2024 11:05,Seminar,Technical,Computer Science,2,Speakers were boring.,-0.3182,Negative
+25-03-2025 11:05,Sports Meet,Sports,Electronics,4,Would love to attend again.,0.6369,Positive
+07-12-2024 11:05,Workshop,Workshop,Computer Science,3,Could have been a little better.,0.3832,Positive
+30-10-2024 11:05,Hackathon,Workshop,Humanities,4,Speakers were very knowledgeable.,0,Neutral
+29-03-2025 11:05,Seminar,Sports,Humanities,4,Loved the hands-on activities!,0.636,Positive
+22-09-2024 11:05,Tech Talk,Technical,Electronics,4,Would love to attend again.,0.6369,Positive
+13-05-2025 11:05,Sports Meet,Workshop,Civil,1,Speakers were boring.,-0.3182,Negative
+06-11-2024 11:05,Tech Talk,Sports,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+07-05-2025 11:05,Hackathon,Cultural,Management,4,Loved the hands-on activities!,0.636,Positive
+21-06-2025 11:05,Workshop,Cultural,Computer Science,4,Would love to attend again.,0.6369,Positive
+11-04-2025 11:05,Tech Talk,Sports,Computer Science,5,"Great event, learned a lot!",0.6588,Positive
+29-04-2025 11:05,Seminar,Workshop,Management,3,"Nothing special, but okay.",-0.3875,Negative
+24-01-2025 11:05,Hackathon,Workshop,Humanities,3,Overall it was decent.,0,Neutral
+06-03-2025 11:05,Hackathon,Sports,Management,4,Loved the hands-on activities!,0.636,Positive
+27-01-2025 11:05,Workshop,Workshop,Humanities,5,"Great event, learned a lot!",0.6588,Positive
+05-05-2025 11:05,Tech Talk,Academic,Management,3,Overall it was decent.,0,Neutral
+25-10-2024 11:05,Cultural Fest,Technical,Electronics,2,Poorly managed event.,0,Neutral
+20-05-2025 11:05,Seminar,Cultural,Civil,5,Would love to attend again.,0.6369,Positive
+15-08-2025 11:05,Hackathon,Sports,Civil,2,I did not enjoy the event.,-0.3875,Negative
+03-03-2025 11:05,Seminar,Technical,Management,3,It was an average experience.,0,Neutral
+09-05-2025 11:05,Tech Talk,Workshop,Civil,3,"Nothing special, but okay.",-0.3875,Negative
+20-11-2024 11:05,Hackathon,Workshop,Mechanical,1,The event was too long.,0,Neutral
+19-04-2025 11:05,Workshop,Academic,Management,1,Could be better organized.,0.4404,Positive
+30-10-2024 11:05,Seminar,Technical,Management,3,"Content was fine, not too great.",-0.3599,Negative
+02-04-2025 11:05,Seminar,Workshop,Management,3,Overall it was decent.,0,Neutral
+16-06-2025 11:05,Tech Talk,Technical,Electronics,3,"Nothing special, but okay.",-0.3875,Negative
+17-06-2025 11:05,Tech Talk,Academic,Civil,3,Overall it was decent.,0,Neutral
+18-02-2025 11:05,Seminar,Workshop,Civil,1,Speakers were boring.,-0.3182,Negative
+12-11-2024 11:05,Cultural Fest,Technical,Electronics,1,Could be better organized.,0.4404,Positive
+08-10-2024 11:05,Cultural Fest,Cultural,Mechanical,1,Poorly managed event.,0,Neutral
+30-09-2024 11:05,Cultural Fest,Cultural,Management,4,Would love to attend again.,0.6369,Positive
+23-07-2025 11:05,Hackathon,Cultural,Civil,3,Could have been a little better.,0.3832,Positive
+30-01-2025 11:05,Tech Talk,Cultural,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+09-05-2025 11:05,Cultural Fest,Cultural,Humanities,2,Could be better organized.,0.4404,Positive
+23-01-2025 11:05,Cultural Fest,Workshop,Mechanical,1,I did not enjoy the event.,-0.3875,Negative
+06-02-2025 11:05,Guest Lecture,Technical,Computer Science,1,Could be better organized.,0.4404,Positive
+14-02-2025 11:05,Cultural Fest,Academic,Electronics,1,Speakers were boring.,-0.3182,Negative
+11-06-2025 11:05,Seminar,Cultural,Civil,4,Very informative and engaging.,0.3947,Positive
+25-08-2025 11:05,Workshop,Technical,Management,1,Could be better organized.,0.4404,Positive
+17-12-2024 11:05,Guest Lecture,Academic,Electronics,3,"Content was fine, not too great.",-0.3599,Negative
+13-11-2024 11:05,Seminar,Workshop,Electronics,2,Content was not very relevant.,0,Neutral
+28-03-2025 11:05,Sports Meet,Technical,Management,5,Very informative and engaging.,0.3947,Positive
+07-03-2025 11:05,Seminar,Cultural,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+04-12-2024 11:05,Tech Talk,Workshop,Electronics,4,Great networking opportunity.,0.7845,Positive
+20-04-2025 11:05,Seminar,Cultural,Electronics,5,Would love to attend again.,0.6369,Positive
+03-05-2025 11:05,Guest Lecture,Sports,Mechanical,4,Very informative and engaging.,0.3947,Positive
+16-09-2024 11:05,Guest Lecture,Cultural,Civil,4,Would love to attend again.,0.6369,Positive
+12-05-2025 11:05,Cultural Fest,Cultural,Mechanical,1,Speakers were boring.,-0.3182,Negative
+18-05-2025 11:05,Hackathon,Cultural,Computer Science,3,"Content was fine, not too great.",-0.3599,Negative
+27-06-2025 11:05,Workshop,Technical,Electronics,4,Great networking opportunity.,0.7845,Positive
+24-12-2024 11:05,Cultural Fest,Technical,Management,3,"Nothing special, but okay.",-0.3875,Negative
+28-06-2025 11:05,Workshop,Academic,Electronics,5,Speakers were very knowledgeable.,0,Neutral
+12-08-2025 11:05,Hackathon,Workshop,Humanities,1,Speakers were boring.,-0.3182,Negative
+21-06-2025 11:05,Seminar,Sports,Mechanical,2,Poorly managed event.,0,Neutral
+11-07-2025 11:05,Sports Meet,Workshop,Computer Science,5,Would love to attend again.,0.6369,Positive
+10-08-2025 11:05,Tech Talk,Workshop,Computer Science,3,Overall it was decent.,0,Neutral
+02-12-2024 11:05,Cultural Fest,Sports,Management,4,Very informative and engaging.,0.3947,Positive
+13-07-2025 11:05,Tech Talk,Cultural,Management,2,I did not enjoy the event.,-0.3875,Negative
+07-11-2024 11:05,Cultural Fest,Academic,Computer Science,2,Could be better organized.,0.4404,Positive
+16-09-2024 11:05,Workshop,Cultural,Humanities,4,Very informative and engaging.,0.3947,Positive
+07-04-2025 11:05,Hackathon,Academic,Electronics,5,Speakers were very knowledgeable.,0,Neutral
+17-07-2025 11:05,Workshop,Sports,Humanities,1,The event was too long.,0,Neutral
+29-08-2025 11:05,Tech Talk,Cultural,Humanities,3,"Nothing special, but okay.",-0.3875,Negative
+10-05-2025 11:05,Tech Talk,Workshop,Electronics,2,Content was not very relevant.,0,Neutral
+18-03-2025 11:05,Guest Lecture,Cultural,Mechanical,5,Very informative and engaging.,0.3947,Positive
+17-07-2025 11:05,Seminar,Cultural,Humanities,5,Speakers were very knowledgeable.,0,Neutral
+14-03-2025 11:05,Hackathon,Sports,Computer Science,3,"Content was fine, not too great.",-0.3599,Negative
+02-02-2025 11:05,Sports Meet,Technical,Computer Science,5,Loved the hands-on activities!,0.636,Positive
+15-10-2024 11:05,Seminar,Workshop,Electronics,2,I did not enjoy the event.,-0.3875,Negative
+31-01-2025 11:05,Sports Meet,Technical,Management,5,Would love to attend again.,0.6369,Positive
+25-01-2025 11:05,Seminar,Workshop,Humanities,3,Could have been a little better.,0.3832,Positive
+06-05-2025 11:05,Tech Talk,Sports,Mechanical,2,Could be better organized.,0.4404,Positive
+06-09-2025 11:05,Cultural Fest,Technical,Humanities,3,It was an average experience.,0,Neutral
+25-07-2025 11:05,Hackathon,Sports,Civil,5,Great networking opportunity.,0.7845,Positive
+23-02-2025 11:05,Seminar,Academic,Humanities,2,Poorly managed event.,0,Neutral
+18-10-2024 11:05,Cultural Fest,Workshop,Humanities,3,It was an average experience.,0,Neutral
+09-06-2025 11:05,Tech Talk,Technical,Mechanical,1,Could be better organized.,0.4404,Positive
+31-07-2025 11:05,Seminar,Academic,Humanities,1,Content was not very relevant.,0,Neutral
+06-02-2025 11:05,Sports Meet,Workshop,Management,5,Loved the hands-on activities!,0.636,Positive
+21-08-2025 11:05,Sports Meet,Technical,Computer Science,1,I did not enjoy the event.,-0.3875,Negative
+26-07-2025 11:05,Sports Meet,Technical,Electronics,4,Loved the hands-on activities!,0.636,Positive
+20-10-2024 11:05,Workshop,Cultural,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+02-04-2025 11:05,Hackathon,Sports,Management,5,Would love to attend again.,0.6369,Positive
+29-01-2025 11:05,Seminar,Sports,Mechanical,5,Speakers were very knowledgeable.,0,Neutral
+22-01-2025 11:05,Workshop,Cultural,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+27-10-2024 11:05,Cultural Fest,Sports,Management,2,The event was too long.,0,Neutral
+16-09-2024 11:05,Guest Lecture,Cultural,Humanities,1,Content was not very relevant.,0,Neutral
+11-02-2025 11:05,Sports Meet,Sports,Electronics,5,Would love to attend again.,0.6369,Positive
+30-06-2025 11:05,Workshop,Academic,Computer Science,3,Could have been a little better.,0.3832,Positive
+07-04-2025 11:05,Hackathon,Workshop,Electronics,1,Poorly managed event.,0,Neutral
+10-09-2024 11:05,Seminar,Academic,Electronics,5,Would love to attend again.,0.6369,Positive
+27-04-2025 11:05,Seminar,Workshop,Mechanical,5,"Great event, learned a lot!",0.6588,Positive
+29-08-2025 11:05,Tech Talk,Sports,Humanities,1,Poorly managed event.,0,Neutral
+12-09-2024 11:05,Sports Meet,Technical,Management,5,Speakers were very knowledgeable.,0,Neutral
+24-10-2024 11:05,Tech Talk,Academic,Mechanical,2,Could be better organized.,0.4404,Positive
+07-11-2024 11:05,Sports Meet,Academic,Mechanical,1,Content was not very relevant.,0,Neutral
+12-05-2025 11:05,Guest Lecture,Technical,Management,4,Loved the hands-on activities!,0.636,Positive
+25-06-2025 11:05,Workshop,Academic,Management,4,Great networking opportunity.,0.7845,Positive
+19-09-2024 11:05,Hackathon,Sports,Computer Science,2,Speakers were boring.,-0.3182,Negative
+28-03-2025 11:05,Tech Talk,Academic,Computer Science,1,The event was too long.,0,Neutral
+05-06-2025 11:05,Workshop,Academic,Computer Science,1,Could be better organized.,0.4404,Positive
+14-01-2025 11:05,Guest Lecture,Cultural,Management,4,Would love to attend again.,0.6369,Positive
+09-07-2025 11:05,Hackathon,Workshop,Computer Science,5,Would love to attend again.,0.6369,Positive
+01-08-2025 11:05,Workshop,Workshop,Management,2,I did not enjoy the event.,-0.3875,Negative
+23-02-2025 11:05,Seminar,Workshop,Mechanical,5,Would love to attend again.,0.6369,Positive
+19-10-2024 11:05,Workshop,Workshop,Humanities,3,It was an average experience.,0,Neutral
+20-12-2024 11:05,Sports Meet,Technical,Computer Science,1,Speakers were boring.,-0.3182,Negative
+25-03-2025 11:05,Tech Talk,Workshop,Humanities,2,The event was too long.,0,Neutral
+05-03-2025 11:05,Workshop,Cultural,Computer Science,4,Loved the hands-on activities!,0.636,Positive
+04-08-2025 11:05,Workshop,Workshop,Computer Science,4,Would love to attend again.,0.6369,Positive
+22-09-2024 11:05,Guest Lecture,Cultural,Humanities,2,Could be better organized.,0.4404,Positive
+04-03-2025 11:05,Cultural Fest,Technical,Management,2,Poorly managed event.,0,Neutral
+16-10-2024 11:05,Tech Talk,Academic,Electronics,4,Loved the hands-on activities!,0.636,Positive
+14-01-2025 11:05,Cultural Fest,Technical,Computer Science,1,Content was not very relevant.,0,Neutral
+03-10-2024 11:05,Sports Meet,Sports,Mechanical,2,Content was not very relevant.,0,Neutral
+08-04-2025 11:05,Workshop,Workshop,Civil,2,Could be better organized.,0.4404,Positive
+31-10-2024 11:05,Tech Talk,Academic,Humanities,3,"Content was fine, not too great.",-0.3599,Negative
+05-10-2024 11:05,Hackathon,Cultural,Electronics,2,Could be better organized.,0.4404,Positive
+15-06-2025 11:05,Workshop,Cultural,Electronics,3,Overall it was decent.,0,Neutral
+28-02-2025 11:05,Tech Talk,Workshop,Computer Science,1,Speakers were boring.,-0.3182,Negative
+07-10-2024 11:05,Guest Lecture,Sports,Civil,2,The event was too long.,0,Neutral
+03-05-2025 11:05,Workshop,Workshop,Computer Science,4,Great networking opportunity.,0.7845,Positive
+09-09-2025 11:05,Seminar,Academic,Civil,5,"Great event, learned a lot!",0.6588,Positive
+24-02-2025 11:05,Hackathon,Sports,Management,3,"Nothing special, but okay.",-0.3875,Negative
+22-11-2024 11:05,Workshop,Academic,Computer Science,4,Great networking opportunity.,0.7845,Positive
+15-05-2025 11:05,Sports Meet,Sports,Management,4,"Great event, learned a lot!",0.6588,Positive
+11-09-2024 11:05,Sports Meet,Workshop,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+03-05-2025 11:05,Seminar,Sports,Management,4,Great networking opportunity.,0.7845,Positive
+07-11-2024 11:05,Hackathon,Technical,Management,1,Speakers were boring.,-0.3182,Negative
+11-03-2025 11:05,Guest Lecture,Workshop,Management,1,Could be better organized.,0.4404,Positive
+03-05-2025 11:05,Guest Lecture,Academic,Mechanical,4,Loved the hands-on activities!,0.636,Positive
+07-01-2025 11:05,Cultural Fest,Technical,Civil,2,Poorly managed event.,0,Neutral
+27-10-2024 11:05,Cultural Fest,Sports,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+08-06-2025 11:05,Workshop,Workshop,Computer Science,2,Poorly managed event.,0,Neutral
+02-03-2025 11:05,Hackathon,Cultural,Management,3,Overall it was decent.,0,Neutral
+25-03-2025 11:05,Hackathon,Cultural,Civil,1,Speakers were boring.,-0.3182,Negative
+06-05-2025 11:05,Hackathon,Workshop,Electronics,3,"Content was fine, not too great.",-0.3599,Negative
+19-06-2025 11:05,Tech Talk,Workshop,Computer Science,5,Loved the hands-on activities!,0.636,Positive
+07-05-2025 11:05,Tech Talk,Sports,Management,2,I did not enjoy the event.,-0.3875,Negative
+13-11-2024 11:05,Cultural Fest,Technical,Electronics,5,"Great event, learned a lot!",0.6588,Positive
+10-03-2025 11:05,Workshop,Sports,Computer Science,1,Could be better organized.,0.4404,Positive
+23-07-2025 11:05,Sports Meet,Workshop,Mechanical,1,Could be better organized.,0.4404,Positive
+31-07-2025 11:05,Hackathon,Cultural,Electronics,1,Speakers were boring.,-0.3182,Negative
+03-12-2024 11:05,Guest Lecture,Workshop,Civil,5,Would love to attend again.,0.6369,Positive
+20-04-2025 11:05,Sports Meet,Workshop,Mechanical,5,Loved the hands-on activities!,0.636,Positive
+26-05-2025 11:05,Tech Talk,Technical,Mechanical,4,"Great event, learned a lot!",0.6588,Positive
+18-07-2025 11:05,Sports Meet,Academic,Civil,5,Great networking opportunity.,0.7845,Positive
+18-02-2025 11:05,Seminar,Technical,Computer Science,4,"Great event, learned a lot!",0.6588,Positive
+05-04-2025 11:05,Sports Meet,Cultural,Mechanical,2,Content was not very relevant.,0,Neutral
+27-09-2024 11:05,Sports Meet,Technical,Mechanical,4,Very informative and engaging.,0.3947,Positive
+04-01-2025 11:05,Guest Lecture,Cultural,Computer Science,1,Could be better organized.,0.4404,Positive
+02-07-2025 11:05,Tech Talk,Technical,Humanities,3,Overall it was decent.,0,Neutral
+25-07-2025 11:05,Tech Talk,Cultural,Management,4,Would love to attend again.,0.6369,Positive
