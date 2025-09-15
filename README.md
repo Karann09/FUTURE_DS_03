@@ -36,7 +36,7 @@ __________________________________________
 ✔️ Data cleaning & preprocessing             
 ✔️ Sentiment analysis (TextBlob, VADER)      
 ✔️ Exploratory data analysis (EDA)        
-✔️ Survey insights & visualization 
+✔️ Survey insights & visualization         
 ✔️ NLP (Basics) 
 
 __________________________________________
