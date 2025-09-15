@@ -17,7 +17,7 @@ Perform data cleaning & preprocessing (remove duplicates, handle missing values)
 
 Apply sentiment analysis (TextBlob / VADER) to classify responses into Positive, Neutral, Negative.
 
-Extract insights on:
+Extract Insights On:
 
 Top-rated events
 
@@ -33,10 +33,10 @@ __________________________________________
 
 •Skills Gained
 
-✔️ Data cleaning & preprocessing 
-✔️ Sentiment analysis (TextBlob, VADER) 
-✔️ Exploratory data analysis (EDA) 
-✔️ Survey insights & visualization
+✔️ Data cleaning & preprocessing             
+✔️ Sentiment analysis (TextBlob, VADER)      
+✔️ Exploratory data analysis (EDA)        
+✔️ Survey insights & visualization 
 ✔️ NLP (Basics) 
 
 __________________________________________
