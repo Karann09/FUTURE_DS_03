@@ -1,7 +1,7 @@
 # FUTURE_DS_03
 🎓 College Events Feedback Data Analysis 
 
-• Project Overview
+•  Project Overview
 
 College events (tech fests, workshops, seminars, cultural activities) generate tons of student feedback. Instead of leaving responses unused, this project analyzes survey data to uncover student satisfaction trends, common complaints, and areas for improvement.
 
@@ -9,7 +9,7 @@ The project uses data cleaning, sentiment analysis, and visualization to transfo
 
 __________________________________________
 
-• Task
+•  Task
 
 Collect student event feedback via Google Forms (CSV export).
 
@@ -31,7 +31,7 @@ Visualize results using seaborn/matplotlib charts.
 
 __________________________________________
 
-•Skills Gained
+•  Skills Gained
 
 ✔️ Data cleaning & preprocessing             
 ✔️ Sentiment analysis (TextBlob, VADER)      
@@ -41,15 +41,15 @@ __________________________________________
 
 __________________________________________
 
-•Tools & Libraries
+•  Tools & Libraries
 
 Google Colab – environment for running notebooks
 
-pandas – data handling & analysis
+Pandas – data handling & analysis
 
 TextBlob / VADER – sentiment analysis
 
-seaborn / matplotlib – charting & visualization
+Seaborn / Matplotlib – charting & visualization
 
 __________________________________________
 
