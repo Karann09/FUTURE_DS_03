@@ -6,6 +6,8 @@ College events (tech fests, workshops, seminars, cultural activities) generate t
 
 The project uses data cleaning, sentiment analysis, and visualization to transform raw survey feedback into actionable insights for event organizers.
 
+__________________________________________
+
 • Task
 Collect student event feedback via Google Forms (CSV export).
 
@@ -25,8 +27,16 @@ Correlation between rating and sentiment
 
 Visualize results using seaborn/matplotlib charts.
 
+__________________________________________
+
 •Skills Gained
-✔️ Data cleaning & preprocessing ✔️ Sentiment analysis (TextBlob, VADER) ✔️ Exploratory data analysis (EDA) ✔️ Survey insights & visualization ✔️ Natural Language Processing (NLP) basics
+✔️ Data cleaning & preprocessing 
+✔️ Sentiment analysis (TextBlob, VADER) 
+✔️ Exploratory data analysis (EDA) 
+✔️ Survey insights & visualization
+✔️ NLP (Basics) 
+
+__________________________________________
 
 •Tools & Libraries
 Google Colab – environment for running notebooks
@@ -37,7 +47,9 @@ TextBlob / VADER – sentiment analysis
 
 seaborn / matplotlib – charting & visualization
 
-Google Forms (C Screenshot 2025-08-23 144904
+__________________________________________
+
+Dashboard Previews
 <img width="1323" height="743" alt="Screenshot 2025-09-14 220223" src="https://github.com/user-attachments/assets/5d7d7edc-1385-42d7-863d-d2570c607022" />
 <img width="855" height="516" alt="Screenshot 2025-09-14 203905" src="https://github.com/user-attachments/assets/137d9ca2-90cf-48a4-b2c3-4675387e3825" />
 <img width="668" height="454" alt="Screenshot 2025-09-14 203923" src="https://github.com/user-attachments/assets/3dea5d4c-4836-41df-b6ba-c61dd33d36d6" />
